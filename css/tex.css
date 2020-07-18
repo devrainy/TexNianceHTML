@@ -9,7 +9,7 @@ header img{
 }
 
 body{
-	background-image: url("/Users/61452/Documents/TexNianceHTML/background.png"); 
+	background-image: url("https://raw.githubusercontent.com/devrainy/TexNianceHTML/master/background.png"); 
 background-repeat: no-repeat; 
 background-attachment: sticky;
 background-size: cover;
