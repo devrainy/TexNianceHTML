@@ -1,0 +1,69 @@
+header, body{
+	margin: 0 auto;
+	padding: 0;
+}
+header img{
+	max-width: 100%;
+	max-height: 100%;
+	padding: 0;
+}
+
+body{
+	background-image: url("file:///C:/Users/61452/Documents/TexNianceHTML/background.png"); 
+background-repeat: no-repeat; 
+background-attachment: sticky;
+background-size: cover;
+}
+
+h2{
+	color: #2dcb71;
+	font-family: VT323; font-size: 52px;
+	text-align: center;
+}
+
+p{
+	color: #2dcb71;
+	font-family: "Ariel";
+	font-size: 24px;
+	padding: 0 40px;
+}
+
+footer{
+	font-style: italic;
+	font-size: 12px;
+	color: #000000;
+}
+
+a{
+	font-size: 28px;
+	font-family: VT323;
+	font-color: #2dcb71;
+	text-align: center;
+}
+
+.pro{
+	display:block;
+	margin: 0 auto;
+
+}
+
+.sub{
+	display:block;
+	margin: 0 auto;
+}
+
+.int{
+	display:block;
+	margin: 0 auto;
+}
+.tuber{
+	display: block;
+	margin: 0 auto;
+}
+span{
+	border-color: #2dcb71;
+	border-style: solid;
+}
+
+
+
